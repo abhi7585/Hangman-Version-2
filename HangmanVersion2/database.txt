@@ -1,0 +1,7 @@
+category,word,guessed
+3,buff,no 
+2,cote d'ivoire ,no 
+1,rutherfordton,no 
+2,saint vincent and the grenadines ,yes 
+2,lesotho ,no
+3,bondi blue,no 
